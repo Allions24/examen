@@ -3,7 +3,7 @@
 int main() 
 {
 int n;
-printf("Ingrese un números:\n");
+printf("dame un nÃºmeros:\n");
 
     while (1) 
 	{
@@ -11,10 +11,10 @@ printf("Ingrese un números:\n");
 
         if (n< 0) 
 		{
-            printf("El numero que ingreso es negativo\n");
+            printf("El numero que me dio es negativo\n");
             break;
         }
-        printf("Número ingresado: %d\n", n);
+        printf("NÃºmero dado: %d\n", n);
     }
 
     return 0;
