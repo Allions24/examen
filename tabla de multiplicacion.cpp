@@ -6,7 +6,7 @@ int main()
 {
 int n;
 int i = 1;
-printf("Ingrese un número: ");
+printf("dame un nÃºmero: ");
 scanf("%d", &n);
 printf("Tabla de multiplicar de %d:\n", n);
 
